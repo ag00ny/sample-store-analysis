@@ -22,3 +22,4 @@
 
 ## Дашборд
 - Ссылка на Google Sheets: https://docs.google.com/spreadsheets/d/10zAOd9ujsDZgqJUSKkQUmqGsd42pehnzr8krp5blyyY/edit?usp=sharing
+- Ссылка на изначальный датасет: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
